@@ -1,0 +1,27 @@
+{
+  "name": "todo-list-javascript",
+  "version": "1.0.0",
+  "description": "Create Todo List in javascript and it's not a responsive design. ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DIp15739/Todo-List-JavaScript.git"
+  },
+  "keywords": [
+    "todo",
+    "list",
+    "todolist",
+    "js",
+    "javascript"
+  ],
+  "author": "DipVachhani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DIp15739/Todo-List-JavaScript/issues"
+  },
+  "homepage": "https://github.com/DIp15739/Todo-List-JavaScript#readme"
+}
